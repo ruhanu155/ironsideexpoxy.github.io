@@ -1,0 +1,11 @@
+{
+  "name": "ironsideepoxy-website",
+  "version": "1.0.0",
+  "description": "Ironside Epoxy - Static website",
+  "scripts": {
+    "start": "http-server . -p 8080 -o"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
